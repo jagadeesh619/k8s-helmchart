@@ -1,2 +1,2 @@
-replicas: "3"
-imageversion: "latest"
+replicas: 3
+imageversion: latest
