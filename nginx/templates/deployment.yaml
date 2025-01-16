@@ -19,6 +19,6 @@ spec:
         tier: frontend
     spec:
       containers:
-      - name: nginx:{{ .Values.imageversion}}
-        image: nginx
+      - name: nginx
+        image: nginx:{{ .Values.imageversion}}
         imagePullPolicy: Always
