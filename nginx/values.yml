@@ -1,2 +1,2 @@
 replicas: "3"
-imagetag: "latest"
+imageversion: "latest"
