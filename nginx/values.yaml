@@ -1,2 +1,2 @@
-replicas: 3
-imageversion: latest
+replicas: 1
+imageversion: 1.27-alpine3.20
